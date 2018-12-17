@@ -1,0 +1,10 @@
+{
+  "name": "node-summary",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "fs":"node --experimental-modules fs.mjs",
+    "start":"node --experimental-modules index.mjs"
+  }
+}
